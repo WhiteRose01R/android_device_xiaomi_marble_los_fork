@@ -967,6 +967,7 @@ vendor/etc/sensors/config/sx933x_0.json
 vendor/etc/sensors/config/tcs3701.json
 vendor/etc/sensors/hals.conf
 vendor/etc/sensors/sns_reg_config
+vendor/lib64/hw/vendor.xiaomi.sensor.citsensorservice@2.0-impl.so:vendor/etc/sensors/udals-model.json
 
 # Sensors - SSC calibration
 vendor/lib64/libssccalapi@2.0.so
