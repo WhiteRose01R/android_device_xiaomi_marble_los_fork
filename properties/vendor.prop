@@ -6,5 +6,10 @@ vendor.display.override_doze_mode=1
 persist.vendor.fingerprint.type=side
 persist.vendor.fingerprint.sensor_location=1080|920|210|local:4630946370515662721,1080|920|210|local:4630946480857061761
 
+# Sensors
+ro.vendor.sensors.notifier.raw_light.enable=true
+ro.vendor.sensors.notifier.udals.normal_max_brightness=2047
+ro.vendor.sensors.notifier.udals.max_bleed_rgb=63.50,237.89,44.82
+
 # System properties
 ro.product.property_source_order=odm,vendor,product,system_ext,system
